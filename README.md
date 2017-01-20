@@ -10,7 +10,7 @@ Author:
 
 GreenServ is a simple RAW request/response API server to service the
 GreenUp Vermont event. Currently, the clients use a google app engine
-database which has results in many a headache. This pet project creates 
+database which has resulted in many a headache. This pet project creates 
 a fast reliable. Consistent. And Speedy server program.
 
 Setup:
